@@ -6789,7 +6789,7 @@
     .navbar-end {
       align-items: stretch;
       display: flex;
-      justify-content: space-around;
+      // justify-content: space-around;
       
     }
     .navbar {
@@ -6797,8 +6797,8 @@
     }
     .navbar.is-spaced {
       padding: 1rem 2rem;
-      padding-left: 16rem;
-      padding-right: 16rem;
+      // padding-left: 16rem;
+      // padding-right: 16rem;
   }
     }
     .navbar.is-spaced .navbar-start,
@@ -6926,7 +6926,7 @@
     }
     .navbar > .container .navbar-brand,
     .container > .navbar .navbar-brand {
-      margin-left: -1rem;
+      // margin-left: -1rem;
     }
     .navbar > .container .navbar-menu,
     .container > .navbar .navbar-menu {
@@ -9800,6 +9800,11 @@
 .heroTop h1{
   width: 70%;
 }
+
+.hero .heroBottom{
+  
+}
+
 .meMeta{
   display: flex;
   justify-content: space-between;
