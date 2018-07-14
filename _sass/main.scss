@@ -9654,7 +9654,7 @@
   .hero-body {
     flex-grow: 1;
     flex-shrink: 0;
-    padding: 3rem 1.5rem;
+    padding: 2rem 1.5rem;
   }
   
   .section {
@@ -9809,6 +9809,11 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+}
+
+.footer .content {
+  display: flex;
+  justify-content: space-evenly;
 }
 
   }/*# sourceMappingURL=bulma.css.map */
